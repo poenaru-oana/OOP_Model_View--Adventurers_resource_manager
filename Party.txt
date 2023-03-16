@@ -1,0 +1,5 @@
+Character1|400|silver
+Character2|380|lightblue
+Character3|1000|beige
+Character4|100|orange
+Character5|200|beige

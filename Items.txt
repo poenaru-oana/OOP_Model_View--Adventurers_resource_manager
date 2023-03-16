@@ -1,0 +1,9 @@
+Item1|200|uncommon|
+Item2|50|common|silver
+Item3|150|common|lightblue
+Item4|10|common|
+Item5|250|uncommon|orange
+Item6|400|rare|beige
+Item7|50|common|lightblue
+Item8|250|uncommon|
+Item9|700|rare|

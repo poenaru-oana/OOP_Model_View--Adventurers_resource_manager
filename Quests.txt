@@ -1,0 +1,10 @@
+Quest1|200
+Quest2|50
+Quest3|700
+Quest4|150
+Quest5|450
+Quest6|600
+Quest7|100
+Quest8|150
+Quest9|50
+Quest10|250
