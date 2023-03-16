@@ -23,4 +23,5 @@ When a modification is made, everyone should be able to see it.
 All the modifications should be saved to file upon closing.
  
 	This project was developed as practice for the written exam in Object-Oriented Programming course, Semester 2.
+	The simultaneous updating in all opened windows is done using MVC architecture.
 	The GUI for this project was created using Qt Designer.
